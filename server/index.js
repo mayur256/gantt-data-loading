@@ -15,9 +15,11 @@ app.get('/GantData', async (req, res) => {
     try {
         await sleep(2000);
         if (queryParams.get('$expand') === "ExpandingAction,5") {
-            result = JSON.parse(fs.readFileSync("./Task_5.json", "utf-8"))
+            result = JSON.parse(fs.readFileSync("./Task_5.json", "utf-8")).expand;
+        } else if (queryParams.get('$expand') === "CollapsingAction,5") {
+            result = JSON.parse(fs.readFileSync("./Task_5.json", "utf-8")).collapse;
         } else if (queryParams.get('$expand') === "ExpandingAction,9") {
-            result = JSON.parse(fs.readFileSync("./Task_9.json", "utf-8"))
+            result = JSON.parse(fs.readFileSync("./Task_9.json", "utf-8"));
         } else {
             const fileDataStr = fs.readFileSync("./data.json", "utf-8")
             result = JSON.parse(fileDataStr)
