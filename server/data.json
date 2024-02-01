@@ -1,0 +1,228 @@
+[
+    {
+        "taskId": 1,
+        "taskName": "Task 1",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 45,
+        "isParent": true,
+        "IsExpanded": true
+    },
+    {
+        "taskId": 2,
+        "taskName": "Task 2",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-08T08:00:00Z",
+        "duration": "4",
+        "progress": 79,
+        "parentID": 1,
+        "predecessor": "",
+        "isParent": false,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 3,
+        "taskName": "Task 3",
+        "startDate": "2000-01-10T08:00:00Z",
+        "endDate": "2000-01-15T08:00:00Z",
+        "duration": "4",
+        "progress": 11,
+        "parentID": 1,
+        "predecessor": "2FS",
+        "isParent": false,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 4,
+        "taskName": "Task 4",
+        "startDate": "2000-01-17T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "4",
+        "progress": 40,
+        "parentID": 1,
+        "predecessor": "3FS",
+        "isParent": false,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 5,
+        "taskName": "Task 5",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 16,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 9,
+        "taskName": "Task 9",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 64,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 13,
+        "taskName": "Task 13",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 42,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 17,
+        "taskName": "Task 17",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 19,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 21,
+        "taskName": "Task 21",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 90,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 25,
+        "taskName": "Task 25",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 23,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 29,
+        "taskName": "Task 29",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 49,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 33,
+        "taskName": "Task 33",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 82,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 37,
+        "taskName": "Task 37",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 63,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 41,
+        "taskName": "Task 41",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 6,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 45,
+        "taskName": "Task 45",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 88,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 49,
+        "taskName": "Task 49",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 98,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 53,
+        "taskName": "Task 53",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 8,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 57,
+        "taskName": "Task 57",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 55,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 61,
+        "taskName": "Task 61",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 58,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 65,
+        "taskName": "Task 65",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 54,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 69,
+        "taskName": "Task 69",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 68,
+        "isParent": true,
+        "IsExpanded": false
+    },
+    {
+        "taskId": 73,
+        "taskName": "Task 73",
+        "startDate": "2000-01-03T08:00:00Z",
+        "endDate": "2000-01-22T08:00:00Z",
+        "duration": "15",
+        "progress": 86,
+        "isParent": true,
+        "IsExpanded": true
+    }
+]
