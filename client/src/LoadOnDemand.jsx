@@ -16,6 +16,8 @@ const LoadOnDemand = () => {
         duration: 'duration',
         progress: 'progress',
         hasChildMapping: 'isParent',
+        baselineStartDate: 'baselineStartDate',
+        baselineEndDate: 'baselineEndDate',
         parentID: 'parentID'
     };
     const projectStartDate = new Date('01/02/2000');
@@ -33,6 +35,8 @@ const LoadOnDemand = () => {
                     height='460px'
                     projectStartDate={projectStartDate}
                     projectEndDate={projectEndDate}
+                    renderBaseline={true}
+                    baselineColor='green'
                 >
                     <ColumnsDirective>
                         <ColumnDirective field='taskId' width='80'></ColumnDirective>
@@ -40,6 +44,8 @@ const LoadOnDemand = () => {
                         <ColumnDirective field='startDate'></ColumnDirective>
                         <ColumnDirective field='duration'></ColumnDirective>
                         <ColumnDirective field='progress'></ColumnDirective>
+                        <ColumnDirective field='baselineStartDate' ></ColumnDirective>
+                        <ColumnDirective field='baselineEndDate' ></ColumnDirective>
                     </ColumnsDirective>
                     <Inject services={[Selection, VirtualScroll]} />
                 </GanttComponent>

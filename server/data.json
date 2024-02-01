@@ -19,7 +19,9 @@
         "parentID": 1,
         "predecessor": "",
         "isParent": false,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 3,
@@ -31,7 +33,9 @@
         "parentID": 1,
         "predecessor": "2FS",
         "isParent": false,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 4,
@@ -43,7 +47,9 @@
         "parentID": 1,
         "predecessor": "3FS",
         "isParent": false,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 5,
@@ -53,7 +59,9 @@
         "duration": "15",
         "progress": 16,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 9,
@@ -63,7 +71,9 @@
         "duration": "15",
         "progress": 64,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 13,
@@ -73,7 +83,9 @@
         "duration": "15",
         "progress": 42,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 17,
@@ -83,7 +95,9 @@
         "duration": "15",
         "progress": 19,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 21,
@@ -93,7 +107,9 @@
         "duration": "15",
         "progress": 90,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 25,
@@ -103,7 +119,9 @@
         "duration": "15",
         "progress": 23,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 29,
@@ -113,7 +131,9 @@
         "duration": "15",
         "progress": 49,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 33,
@@ -123,7 +143,9 @@
         "duration": "15",
         "progress": 82,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 37,
@@ -133,7 +155,9 @@
         "duration": "15",
         "progress": 63,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 41,
@@ -143,7 +167,9 @@
         "duration": "15",
         "progress": 6,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 45,
@@ -153,7 +179,9 @@
         "duration": "15",
         "progress": 88,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 49,
@@ -163,7 +191,9 @@
         "duration": "15",
         "progress": 98,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 53,
@@ -173,7 +203,9 @@
         "duration": "15",
         "progress": 8,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 57,
@@ -183,7 +215,9 @@
         "duration": "15",
         "progress": 55,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 61,
@@ -193,7 +227,9 @@
         "duration": "15",
         "progress": 58,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 65,
@@ -203,7 +239,9 @@
         "duration": "15",
         "progress": 54,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 69,
@@ -213,7 +251,9 @@
         "duration": "15",
         "progress": 68,
         "isParent": true,
-        "IsExpanded": false
+        "IsExpanded": false,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     },
     {
         "taskId": 73,
@@ -223,6 +263,8 @@
         "duration": "15",
         "progress": 86,
         "isParent": true,
-        "IsExpanded": true
+        "IsExpanded": true,
+        "baselineStartDate": "2000-01-02T08:00:00Z",
+        "baselineEndDate": "2000-01-25T08:00:00Z"
     }
 ]
