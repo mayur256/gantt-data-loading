@@ -6,7 +6,8 @@ const LoadOnDemand = () => {
     const dataSource = new DataManager({
         url: 'http://localhost:5000/GantData',
         adaptor: new WebApiAdaptor,
-        crossDomain: true
+        crossDomain: true,
+        headers: [{ 'X-HEADER': 'brix' }]
     });
     const taskFields = {
         id: 'taskId',
